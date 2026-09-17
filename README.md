@@ -33,7 +33,10 @@ Estudante de Engenharia de Software e integrante da equipe. Sua tarefa será adi
 
 Desenvolver habilidades de versionamento, criação de branches, Pull Requests, revisão de código e resolução de conflitos utilizando Git e GitHub.
 
-## Linguagens
+## Linguagens aprendidas
 
 - C
 - HTML
+- CSS
+- Python
+- JavaScript
