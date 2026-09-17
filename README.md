@@ -4,6 +4,15 @@
 
 Este projeto foi desenvolvido pela equipe durante a atividade colaborativa de Git e GitHub.
 
+## Redes sociais
+
+| Integrante | GitHub | Rede social |
+|------------|--------|-------------|
+| Lucas Emanuel | @lucasm18-debug | @lucas |
+| Gustavo Henri| @gussicoding | @gustavo |
+| João Gabriel | @JGabriel-007 | @joao |
+| Daniel Silva| @daniel | @daniel |
+
 ### Lucas
 
 Estudante de Engenharia de Software e responsável pela organização inicial do projeto e pela seção de apresentação dos membros.
