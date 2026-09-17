@@ -1,4 +1,4 @@
-# Desafio Colaborativo Git
+# Desafio Colaborativo Git - Trabalho em Equipe
 
 ## Apresentação dos membros
 
