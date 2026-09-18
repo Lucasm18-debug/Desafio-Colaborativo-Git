@@ -11,7 +11,6 @@ Este projeto foi desenvolvido pela equipe durante a atividade colaborativa de Gi
 | Lucas Emanuel | @lucasm18-debug | @lucas |
 | Gustavo Henri| @gussicoding | @gustavo |
 | João Gabriel | @JGabriel-007 | @joao |
-| Daniel Silva| @daniel | @daniel |
 
 ### Lucas
 
@@ -24,10 +23,6 @@ Estudante de Engenharia de Software e integrante da equipe responsável pela tab
 ### João
 
 Estudante de Engenharia de Software e integrante da equipe responsável pela lista de linguagens aprendidas.
-
-### Daniel
-
-Estudante de Engenharia de Software e integrante da equipe. Sua tarefa será adicionada posteriormente.
 
 ## Objetivo da atividade
 
